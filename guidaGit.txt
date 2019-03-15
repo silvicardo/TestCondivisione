@@ -14,3 +14,15 @@ branch locali in verde
 branch remoti in rosso
 
 Il branch con l'asterisco è quello in cui sei ora
+
+Per committare
+
+git add .
+git commit -m 'il mio commentosul commit'
+git push
+
+Per cancellare una directory
+
+rm -R percorsoDirectory
+
+

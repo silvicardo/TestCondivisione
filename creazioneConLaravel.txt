@@ -1,0 +1,28 @@
+Clonare un progetto
+ATTENZIONE A PRENDERE IL LINK HTTPS
+
+git clone link
+
+
+------
+
+
+Creare una nuova branch
+Siamo su master
+
+git checkout -b nomeBranch
+
+Così avremo la nuova branch e ci saremo spostati in essa 
+
+
+------
+
+
+Pushare la branch su github
+Non serve fare commit  se non abbiamo fatto dei cambiamenti
+Basta git push
+ATTENZIONE! NOME BRANCHE UGUALE A QUELLO DI PRIMA, SE SI 
+HANNO DUBBI FARE PRIMA GIT STATUS
+oppure git branch -a PER CONTROLLARE IL NOME
+
+git push -u origin nomeBranch

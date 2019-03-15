@@ -24,5 +24,8 @@ git push
 Per cancellare una directory
 
 rm -R percorsoDirectory
-ciao
-DIego
+
+
+Per controllare dove ci troviamo
+
+pwd

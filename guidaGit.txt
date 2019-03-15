@@ -1,0 +1,16 @@
+
+
+Switchare branch
+
+git checkout nomeBranch
+
+
+Controllare su quale branch ci si trova
+
+git branch -a
+
+Si distingue tra
+branch locali in verde
+branch remoti in rosso
+
+Il branch con l'asterisco è quello in cui sei ora
